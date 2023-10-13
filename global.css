@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --text-article: "DM Sans";
+    --font-fontawesome: FontAwesome;
+    --font-poppins: Poppins;
+    --buttons-middle: "DM Sans";
+    --heading-h2-header: "DM Sans";
+  
+    --buttons-small: "DM Sans";
+    /* font sizes */
+    --font-size-5xl: 24px;
+    --text-article-size: 18px;
+    --heading-h1-hero-size: 72px;
+    --heading-h5-lead-size: 22px;
+    --buttons-big-size: 20px;
+    --text-paragraph-size: 16px;
+    --heading-h3-title-size: 42px;
+    --heading-h2-header-size: 58px;
+    --font-size-xl: 20px;
+    --buttons-small-size: 16px;
+    --font-size-xs: 12px;
+    --font-awesome-size: 18px;
+    --font-size-11xl: 30px;
+    --buttons-big-size: 20px;
+    --text-article-size: 18px;
+  --buttons-middle-size: 18px;
+  
+    /* Colors */
+    --background-light: #fff;
+    --colors-heading: #1e0e62;
+    --colors-text: rgba(21, 20, 57, 0.4);
+    --action-primary: #25dac5;
+    --background-dark: #2f1893;
+    --colors-white: #fff;
+    --action-secondary: #482be7;
+    --action-primary: #25dac5;
+    --colors-grey: #ebeaed;
+    --socials-youtube: #ea3223;
+    --action-third: #e93a7d;
+    --socials-twitter: #1da1f2;
+    
+  
+    /* Border radiuses */
+    --br-81xl: 100px;
+    --br-3xs: 10px;
+    --br-7xs: 6px;
+  }
+  
